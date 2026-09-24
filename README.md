@@ -7,12 +7,15 @@ profiles.
 
 ## Data sources
 
+## Data sources
+
 | Dataset | Role | Resolution |
 |---|---|---|
 | [ORAS5](https://doi.org/10.24381/cds.67e8eeb7) | MLD, ocean forcing (SST, SSS, SSH, wind stress, heat/freshwater flux) | 0.25°, monthly |
 | [ERA5](https://doi.org/10.1002/qj.3803) | Atmospheric forcing (wind, radiation, precipitation, evaporation) | 0.25°, monthly |
 | [DUACS](https://doi.org/10.48670/moi-00148) | EKE, sea level anomaly | 0.25°, daily |
 | [Argo](https://argo.ucsd.edu/) | Independent validation | Profile |
+| [Analysis Cube](https://data.mendeley.com/drafts/fffdxy7dbk) | Processed analysis dataset used for MLD analysis and attribution | Monthly, 0.25° grid |
 
 ## Domain
 
