@@ -15,7 +15,7 @@ profiles.
 | [ERA5](https://doi.org/10.1002/qj.3803) | Atmospheric forcing (wind, radiation, precipitation, evaporation) | 0.25°, monthly |
 | [DUACS](https://doi.org/10.48670/moi-00148) | EKE, sea level anomaly | 0.25°, daily |
 | [Argo](https://argo.ucsd.edu/) | Independent validation | Profile |
-| [Analysis Cube](https://data.mendeley.com/drafts/fffdxy7dbk) | Processed analysis dataset used for MLD analysis and attribution | Monthly, 0.25° grid |
+| [Analysis Cube](https://data.mendeley.com/preview/fffdxy7dbk) | Processed analysis dataset used for MLD analysis and attribution | Monthly, 0.25° grid |
 
 ## Domain
 
