@@ -56,11 +56,20 @@ outputs/
 
 ## Key results
 
+### MLD trends
+
+![MLD seasonal trend](https://github.com/binarymaruf/mld_data_analysis/blob/main/fig14_mld_seasonal_trend.png "fig14_mld_seasonal_trend.png")
+
 No significant basin-mean MLD trend (1996–2020), but 23.5% of grid cells show
-significant local trends of opposing sign. Sea level anomaly, wind stress, and
-net heat flux dominate the attribution; the leading driver differs by
-sub-basin. Wind-driven deepening is significantly damped by freshwater forcing
-(τ × P−E interaction, p < 0.001 throughout).
+significant local trends of opposing sign.
+
+### GLM driver attribution
+
+![GLM driver attribution by sub-basin](https://github.com/binarymaruf/mld_data_analysis/blob/main/fig11_glm_by_subbasin.png "fig11_glm_by_subbasin.png")
+
+Sea level anomaly, wind stress, and net heat flux dominate the attribution; the
+leading driver differs by sub-basin. Wind-driven deepening is significantly
+damped by freshwater forcing (τ × P−E interaction, p < 0.001 throughout).
 
 ## Citation
 
