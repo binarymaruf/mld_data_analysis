@@ -74,11 +74,3 @@ Sea level anomaly, wind stress, and net heat flux dominate the attribution; the
 leading driver differs by sub-basin. Wind-driven deepening is significantly
 damped by freshwater forcing (τ × P−E interaction, p < 0.001 throughout).
 
-## Citation
-
-If you use this pipeline, please cite the underlying data products (ORAS5,
-ERA5, DUACS, Argo) per their individual usage policies.
-
-## License
-
-Add a license before publishing.
